@@ -1,25 +1,6 @@
 {
     "quotes": [
-        {
-            "text": "Hayatta en hakiki mürşit ilimdir.",
-            "author": "Mustafa Kemal Atatürk"
-        },
-        {
-            "text": "Eğer bir gün benim sözlerim bilimle ters düşerse, bilimi seçin.",
-            "author": "Mustafa Kemal Atatürk"
-        },
-        {
-            "text": "Yurtta sulh, cihanda sulh.",
-            "author": "Mustafa Kemal Atatürk"
-        },
-        {
-            "text": "Sanatsız kalan bir milletin hayat damarlarından biri kopmuş demektir.",
-            "author": "Mustafa Kemal Atatürk"
-        },
-        {
-            "text": "Bir millet ki resim yapmaz, bir millet ki heykel yapmaz, böyle bir milletin ilerleme yolunda yeri yoktur.",
-            "author": "Mustafa Kemal Atatürk"
-        },
+        
         {
             "text": "Yaşamak bir ağaç gibi tek ve hür ve bir orman gibi kardeşçesine.",
             "author": "Nazım Hikmet"
@@ -1322,3 +1303,4 @@
         }
     ]
 }
+
