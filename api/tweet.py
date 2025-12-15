@@ -1,6 +1,6 @@
 """
 Vercel Serverless Function - Tweet Endpoint
-Cron job ile çağrılarak random söz paylaşır
+Resmi Twitter API v2 ile random söz paylaşır
 """
 
 import json
@@ -13,23 +13,17 @@ class handler(BaseHTTPRequestHandler):
     def do_GET(self):
         try:
             # Check environment variables first
-            import os
-            auth_token = os.environ.get("AUTH_TOKEN")
-            ct0 = os.environ.get("CT0")
+            required_vars = ["API_KEY", "API_SECRET", "ACCESS_TOKEN", "ACCESS_SECRET"]
+            missing = [var for var in required_vars if not os.environ.get(var)]
             
-            if not auth_token or not ct0:
-                missing = []
-                if not auth_token:
-                    missing.append("AUTH_TOKEN")
-                if not ct0:
-                    missing.append("CT0")
+            if missing:
                 self._send_response(500, {
                     "success": False,
                     "error": f"Environment variables eksik: {', '.join(missing)}. Vercel Dashboard > Settings > Environment Variables'dan ekleyin."
                 })
                 return
             
-            # Import here to avoid cold start issues
+            # Import tweeter
             from tweeter import XTweeter
             
             # Load quotes
@@ -63,7 +57,7 @@ class handler(BaseHTTPRequestHandler):
                 })
                 
         except Exception as e:
-            self._send_response(500, {"error": str(e)})
+            self._send_response(500, {"success": False, "error": str(e)})
     
     def _send_response(self, status_code: int, data: dict):
         self.send_response(status_code)
