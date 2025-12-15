@@ -1,0 +1,4 @@
+Bu bir test tweetidir! 🚀
+Merhaba dünya! Python ile otomatik tweet #otomasyon
+Günaydın Twitter! ☀️
+Bu tweet otomatik olarak gönderildi 🤖

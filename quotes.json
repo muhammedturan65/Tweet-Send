@@ -1,0 +1,444 @@
+{
+    "quotes": [
+        {
+            "text": "Başarı, hazırlık ile fırsatın buluştuğu yerdir.",
+            "author": "Seneca"
+        },
+        {
+            "text": "Hayatta en hakiki mürşit ilimdir.",
+            "author": "Mustafa Kemal Atatürk"
+        },
+        {
+            "text": "Yaşamak bir ağaç gibi tek ve hür ve bir orman gibi kardeşçesine.",
+            "author": "Nazım Hikmet"
+        },
+        {
+            "text": "Kendini yargılamak, başkalarını yargılamaktan çok daha güçtür.",
+            "author": "Antoine de Saint-Exupéry"
+        },
+        {
+            "text": "Bir okul açan, bir hapishane kapatır.",
+            "author": "Victor Hugo"
+        },
+        {
+            "text": "Düşünüyorum, öyleyse varım.",
+            "author": "René Descartes"
+        },
+        {
+            "text": "Cahil kimsenin yanında kitap gibi sessiz ol.",
+            "author": "Mevlana"
+        },
+        {
+            "text": "Bildiğim tek şey, hiçbir şey bilmediğimdir.",
+            "author": "Sokrates"
+        },
+        {
+            "text": "Her şeyin bir sonu vardır, doğruların bile.",
+            "author": "Geoffrey Chaucer"
+        },
+        {
+            "text": "Hayat, siz başka planlar yaparken başınıza gelenlerdir.",
+            "author": "John Lennon"
+        },
+        {
+            "text": "Uçurtmalar rüzgar gücüyle değil, o güce karşı koydukları için yükselirler.",
+            "author": "Winston Churchill"
+        },
+        {
+            "text": "Kitapsız yaşamak, kör, sağır ve dilsiz yaşamaktır.",
+            "author": "Seneca"
+        },
+        {
+            "text": "İnsan, düşleri öldüğü gün ölür.",
+            "author": "Yaşar Kemal"
+        },
+        {
+            "text": "Eğer bir gün benim sözlerim bilimle ters düşerse, bilimi seçin.",
+            "author": "Mustafa Kemal Atatürk"
+        },
+        {
+            "text": "En karanlık gece bile sona erer ve güneş tekrar doğar.",
+            "author": "Victor Hugo"
+        },
+        {
+            "text": "Dünyayı değiştirmek isteyen insan önce kendini değiştirmelidir.",
+            "author": "Sokrates"
+        },
+        {
+            "text": "Bir mıh bir nalı kurtarır, bir nal bir atı, bir at bir komutanı, bir komutan bir orduyu, bir ordu bir ülkeyi kurtarır.",
+            "author": "Cengiz Han"
+        },
+        {
+            "text": "Adalet evrenin ruhudur.",
+            "author": "Ömer Hayyam"
+        },
+        {
+            "text": "Kuşlar gibi uçmayı, balıklar gibi yüzmeyi öğrendik ama kardeşçe yaşamayı unuttuk.",
+            "author": "Martin Luther King"
+        },
+        {
+            "text": "Mutluluk, bizde olmayanları istemek değil, elimizdekilere sevinmektir.",
+            "author": "Epiktetos"
+        },
+        {
+            "text": "Kendi ışığına güvenen, başkasının parlamasından rahatsız olmaz.",
+            "author": "Victor Hugo"
+        },
+        {
+            "text": "Cehennem, insan yüreğindeki sevginin bittiği yerdir.",
+            "author": "Dostoyevski"
+        },
+        {
+            "text": "Hayal gücü, bilgiden daha önemlidir.",
+            "author": "Albert Einstein"
+        },
+        {
+            "text": "Cesaret, korkusuz olmak değil, korkuya rağmen hareket etmektir.",
+            "author": "Mark Twain"
+        },
+        {
+            "text": "Yarın, bugünden geriye kalan tek şeydir.",
+            "author": "Oğuz Atay"
+        },
+        {
+            "text": "Sevilmek istiyorsan, önce sevmeyi bileceksin.",
+            "author": "Menander"
+        },
+        {
+            "text": "Yaratıcılık, bulaşıcıdır. Onu başkalarına bulaştırın.",
+            "author": "Albert Einstein"
+        },
+        {
+            "text": "İnsan alemde hayal ettiği müddetçe yaşar.",
+            "author": "Yahya Kemal Beyatlı"
+        },
+        {
+            "text": "Bana okuduğun kitapları söyle, sana kim olduğunu söyleyeyim.",
+            "author": "Cemil Meriç"
+        },
+        {
+            "text": "Sözün en güzeli, söyleyenin doğru olarak söylediği, dinleyenin de yararlandığı sözdür.",
+            "author": "Aristo"
+        },
+        {
+            "text": "Zorluklar, başarının değerini artıran süslerdir.",
+            "author": "Moliere"
+        },
+        {
+            "text": "Sabır, boyun eğmek değil, mücadele etmektir.",
+            "author": "Hz. Ömer"
+        },
+        {
+            "text": "İyiliği, hiçbir karşılık beklemeden yap.",
+            "author": "Konfüçyüs"
+        },
+        {
+            "text": "Her kışın yüreğinde titreyen bir bahar vardır.",
+            "author": "Halil Cibran"
+        },
+        {
+            "text": "Olmak ya da olmamak, işte bütün mesele bu.",
+            "author": "William Shakespeare"
+        },
+        {
+            "text": "Hiçbir miras, doğruluk kadar zengin değildir.",
+            "author": "William Shakespeare"
+        },
+        {
+            "text": "Gülmek için mutlu olmayı beklemeyin, belki de gülmeden ölürsünüz.",
+            "author": "Victor Hugo"
+        },
+        {
+            "text": "Az insan çok huzur.",
+            "author": "Franz Kafka"
+        },
+        {
+            "text": "Beklemesini bilenin her şey ayağına gelir.",
+            "author": "Balzac"
+        },
+        {
+            "text": "Söz ola kese savaşı, söz ola kestire başı.",
+            "author": "Yunus Emre"
+        },
+        {
+            "text": "Yurtta sulh, cihanda sulh.",
+            "author": "Mustafa Kemal Atatürk"
+        },
+        {
+            "text": "Bilgi sahibi olmadan fikir sahibi olunmaz.",
+            "author": "Uğur Mumcu"
+        },
+        {
+            "text": "Dünyayı kara görenler, onu herkes için geceye çevirmek isterler.",
+            "author": "Cenap Şahabettin"
+        },
+        {
+            "text": "Gerçek keşif, yeni topraklar bulmak değil, yeni gözlerle bakmaktır.",
+            "author": "Marcel Proust"
+        },
+        {
+            "text": "Aşk, iki kişinin bir olması değil, iki kişinin birbiriyle bütünleşmesidir.",
+            "author": "Erich Fromm"
+        },
+        {
+            "text": "Karanlığa küfredeceğine bir mum yak.",
+            "author": "Konfüçyüs"
+        },
+        {
+            "text": "Nankör insan, her şeyin fiyatını bilen ama hiçbir şeyin değerini bilmeyen kimsedir.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "text": "Tesadüf, Tanrı'nın imzasız mektubudur.",
+            "author": "Albert Einstein"
+        },
+        {
+            "text": "Eğri cetvelden doğru çizgi çıkmaz.",
+            "author": "Hz. Ali"
+        },
+        {
+            "text": "Hayat, fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir.",
+            "author": "Seneca"
+        },
+        {
+            "text": "Dostluk, kanatsız Sevgidir.",
+            "author": "Lord Byron"
+        },
+        {
+            "text": "Yalnızlık, zeki beyinlerin çıkarsız oyun bahçesidir.",
+            "author": "Sabahattin Ali"
+        },
+        {
+            "text": "Önyargıları kırmak, atom çekirdeğini parçalamaktan daha zordur.",
+            "author": "Albert Einstein"
+        },
+        {
+            "text": "Mutluluk varılan bir yer değil, yolculuğun kendisidir.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "text": "Gideceğin yeri bilmiyorsan, vardığın yerin önemi yoktur.",
+            "author": "Peter Drucker"
+        },
+        {
+            "text": "Özgürlük, ne istediğini bilmektir.",
+            "author": "Nietzsche"
+        },
+        {
+            "text": "Sevmek, birbirine bakmak değil, birlikte aynı yöne bakmaktır.",
+            "author": "Antoine de Saint-Exupéry"
+        },
+        {
+            "text": "Bir milletin büyüklüğü ve ahlaki gelişimi, hayvanlara olan davranış biçimi ile değerlendirilir.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "text": "Beni öldürmeyen şey güçlendirir.",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "text": "Bilgi güçtür.",
+            "author": "Francis Bacon"
+        },
+        {
+            "text": "Eğitim, dünyayı değiştirmek için kullanabileceğiniz en güçlü silahtır.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "text": "Binlerce kilometrelik bir yolculuk bile tek bir adımla başlar.",
+            "author": "Lao Tzu"
+        },
+        {
+            "text": "Dost isterseniz, bırakın dostlarınız sizi geçsin.",
+            "author": "La Rochefoucauld"
+        },
+        {
+            "text": "Hata yapmayan insan, hiçbir şey yapmayan insandır.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "text": "Mantık sizi A noktasından B noktasına götürür. Hayal gücü ise her yere.",
+            "author": "Albert Einstein"
+        },
+        {
+            "text": "Ölümden korkmuyorum, sadece o olduğu zaman orada olmak istemiyorum.",
+            "author": "Woody Allen"
+        },
+        {
+            "text": "Zamanın iki boyutu vardır. Uzunluğu güneşe, derinliği tutkulara bağlıdır.",
+            "author": "Amin Maalouf"
+        },
+        {
+            "text": "Kimseyi küçümseyecek kadar büyük değilsin.",
+            "author": "Lev Tolstoy"
+        },
+        {
+            "text": "Umutsuzluk, sersemlerin elde ettiği bir sonuçtur.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "text": "Bir şeyi gerçekten yapmak isteyen bir yol bulur; istemeyen mazeret bulur.",
+            "author": "E.C. McKenzie"
+        },
+        {
+            "text": "Kendi omuzlarına tırman. Başka nasıl yükselebilirsin ki?",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "text": "Herkes dünyayı değiştirmeyi düşünür ama kimse kendini değiştirmeyi düşünmez.",
+            "author": "Lev Tolstoy"
+        },
+        {
+            "text": "İnsanları tanıdıkça hayvanları daha çok seviyorum.",
+            "author": "Mark Twain"
+        },
+        {
+            "text": "Özgürlük için gökyüzünü satın almanıza gerek yok, ruhunuzu satmayın yeter.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "text": "Hiçbir şey, eyleme geçen cehalet kadar korkutucu değildir.",
+            "author": "Goethe"
+        },
+        {
+            "text": "Adalet topaldır, ağır yürür fakat gideceği yere er geç varır.",
+            "author": "Mirabeau"
+        },
+        {
+            "text": "Ne kadar bilirsen bil, söylediklerin karşındakinin anlayabileceği kadardır.",
+            "author": "Mevlana"
+        },
+        {
+            "text": "Cahillerle tartışmaya girmeyin, ben hiç yenemedim.",
+            "author": "Gazali"
+        },
+        {
+            "text": "Akıllı insan düşündüğü her şeyi söylemez, fakat söylediği her şeyi düşünür.",
+            "author": "Aristo"
+        },
+        {
+            "text": "Bir gün ölmek için, her gün yaşıyoruz.",
+            "author": "Cahit Zarifoğlu"
+        },
+        {
+            "text": "İnsan bekler, beklemesini bilenin her şey ayağına gelir.",
+            "author": "Balzac"
+        },
+        {
+            "text": "Öğrenmek, akıntıya karşı yüzmek gibidir; ilerleyemediğiniz taktirde gerilersiniz.",
+            "author": "Çin Atasözü"
+        },
+        {
+            "text": "Başkalarının hatalarından ders alın. İnsan bütün hataları kendi yapacak kadar uzun yaşamıyor.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "text": "Sanatsız kalan bir milletin hayat damarlarından biri kopmuş demektir.",
+            "author": "Mustafa Kemal Atatürk"
+        },
+        {
+            "text": "Bir ulusun büyüklüğü, nüfusunun çokluğu ile değil, akıllı ve faziletli kişilerin sayısıyla belli olur.",
+            "author": "Victor Hugo"
+        },
+        {
+            "text": "Bilim ve sanat, takdir edilmediği yerden göç eder.",
+            "author": "İbn-i Sina"
+        },
+        {
+            "text": "Güneşin sana ulaşmasını istiyorsan, gölgeden çık.",
+            "author": "Konfüçyüs"
+        },
+        {
+            "text": "Söz kalpten çıkarsa kalbe gider, dilden çıkarsa kulağı aşmaz.",
+            "author": "Arap Atasözü"
+        },
+        {
+            "text": "En büyük zafer, düşmemek değil, her düştüğünde ayağa kalkmaktır.",
+            "author": "Konfüçyüs"
+        },
+        {
+            "text": "Kötülüğe karşı kayıtsız kalmak, kötülüğe ortak olmaktır.",
+            "author": "Antonio Gramsci"
+        },
+        {
+            "text": "Dehanın 10’u ilham, 90’ı terdir.",
+            "author": "Thomas Edison"
+        },
+        {
+            "text": "Tecrübe, insanların hatalarına verdiği isimdir.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "text": "Büyük insanlar veda ederek gider, basit insanlar ihanet ederek gider.",
+            "author": "Lao Tzu"
+        },
+        {
+            "text": "Deniz ne kadar hırçın olsa da, kayalara çarptığında sakinleşir.",
+            "author": "Şeyh Edebali"
+        },
+        {
+            "text": "İyi dostu olanın aynaya gereksinimi yoktur.",
+            "author": "Mevlana"
+        },
+        {
+            "text": "Kişiliğinize hayran olanlar değil, karakterinize saygı duyanlar dostunuzdur.",
+            "author": "T.S. Eliot"
+        },
+        {
+            "text": "Şans, sadece hazır olan zihinlere güler.",
+            "author": "Louis Pasteur"
+        },
+        {
+            "text": "Para açlığı giderir, mutsuzluğu değil; yemek mideyi doyurur, ruhu değil.",
+            "author": "Bernard Shaw"
+        },
+        {
+            "text": "Sadelik, en yüksek gelişmişlik düzeyidir.",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "text": "İnsanlara ne kadar değer veriyorsan o kadar tepene biniyorlar, fakat ne kadar umursamıyorsan o kadar peşinden koşuyorlar.",
+            "author": "Anton Çehov"
+        },
+        {
+            "text": "Gülümseme, iki insan arasındaki en kısa mesafedir.",
+            "author": "Victor Borge"
+        },
+        {
+            "text": "İlim ilim bilmektir, ilim kendin bilmektir.",
+            "author": "Yunus Emre"
+        },
+        {
+            "text": "Gönül ne kahve ister ne kahvehane, gönül sohbet ister kahve bahane.",
+            "author": "Anonim"
+        },
+        {
+            "text": "Hafif acılar konuşabilir ama derin acılar dilsizdir.",
+            "author": "Seneca"
+        },
+        {
+            "text": "Dünyada görmek istediğin değişimin kendisi ol.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "text": "İnsanın değeri, aradığı şeyle ölçülür.",
+            "author": "Mevlana"
+        },
+        {
+            "text": "Fırtınalar, ağaçların köklerini daha derine salmasını sağlar.",
+            "author": "Dolly Parton"
+        },
+        {
+            "text": "En uzun yolculuk, beynimizden yüreğimize yaptığımız yolculuktur.",
+            "author": "Nietzsche"
+        },
+        {
+            "text": "Mutluluğu tatmanın tek çaresi, onu paylaşmaktır.",
+            "author": "Lord Byron"
+        },
+        {
+            "text": "Bir insanın gerçek karakteri, hiç kimse bakmadığı zaman ne yaptığıdır.",
+            "author": "John Wooden"
+        }
+    ]
+}

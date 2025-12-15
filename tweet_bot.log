@@ -1,0 +1,11 @@
+2025-12-15 09:00:57,600 - INFO - 📝 4 tweet yüklendi
+2025-12-15 09:00:58,064 - ERROR - ❌ Kimlik doğrulama başarısız: HTTP 404
+2025-12-15 09:00:58,065 - ERROR - ❌ Kimlik doğrulama başarısız! Cookie'leri kontrol edin.
+2025-12-15 09:02:23,712 - INFO - 📝 4 tweet yüklendi
+2025-12-15 09:02:24,189 - ERROR - ❌ Kimlik doğrulama başarısız: HTTP 404
+2025-12-15 09:02:24,189 - ERROR - ❌ Kimlik doğrulama başarısız! Cookie'leri kontrol edin.
+2025-12-15 09:05:08,302 - INFO - 📡 Doğrulama yanıt kodu: 404
+2025-12-15 09:05:08,302 - WARNING - ⚠️ Doğrulama atlanıyor (HTTP 404), tweet göndermeyi deneyeceğiz...
+2025-12-15 09:05:08,813 - INFO - 📡 API Yanıt Kodu: 200
+2025-12-15 09:05:08,813 - INFO - ✅ Tweet başarıyla gönderildi! ID: 2000447013356474511
+2025-12-15 09:05:08,813 - INFO -    Tweet: Test tweet!...

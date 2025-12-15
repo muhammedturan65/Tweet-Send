@@ -1,0 +1,30 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "version": 2,
+    "builds": [
+        {
+            "src": "api/*.py",
+            "use": "@vercel/python"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/api/tweet",
+            "dest": "/api/tweet.py"
+        },
+        {
+            "src": "/api/health",
+            "dest": "/api/health.py"
+        },
+        {
+            "src": "/",
+            "dest": "/api/health.py"
+        }
+    ],
+    "crons": [
+        {
+            "path": "/api/tweet",
+            "schedule": "*/15 * * * *"
+        }
+    ]
+}

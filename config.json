@@ -1,0 +1,14 @@
+{
+    "cookies": {
+        "auth_token": "b8e1b0c5910791e4b69c8be41ea18ec2e97fec74",
+        "ct0": "f12ee088691d45511ee12fc50e5e716d6843032d93440cfc53fc2c867b836d680e42dc03971f751c65d657d0faf31b980a471390b511fd937c357cf297a76624b134dada8ab58713e44f41657eb99b78"
+    },
+    "settings": {
+        "interval_minutes": 1,
+        "random_delay_minutes": 1,
+        "start_hour": 9,
+        "end_hour": 23,
+        "enabled": true
+    },
+    "tweets_file": "tweets.txt"
+}
