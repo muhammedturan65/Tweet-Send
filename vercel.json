@@ -32,8 +32,9 @@
     "crons": [
         {
             "path": "/api/tweet",
-            "schedule": "0 9 * * *"  // Her gün sabah 9'da
+            "schedule": "0 9 * * *" 
         }
     ]
 }
+
 
