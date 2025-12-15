@@ -1,0 +1,20 @@
+# Logs
+*.log
+tweet_bot.log
+
+# Local config with secrets
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Old files
+x_tweeter.py
+tweets.txt
